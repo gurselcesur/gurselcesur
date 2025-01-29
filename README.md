@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurselcesur
-- 📫 How to reach me ---> e-mail: gursel.cesur@ozu.edu.tr  || discord: .dahak || instagram: @gursel_cesur || twitter: cesur_gursel 
+- 📫 How to reach me ---> e-mail: gursel.cesur@ozu.edu.tr  || discord: .dahak || instagram: @gursel_cesur
 
 <!---
 gurselcesur/gurselcesur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
